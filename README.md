@@ -4,7 +4,7 @@
 
 In this challenge, we will use advanced queries and joins to create a list of employees who would be good candidates for a supervisory role in a firm. These employees are the ones who are close to retirement, and the owner wants to assign them to the mentoreship roles to mentor future employees. Here is the ERD for this project info:
 
-[Challenge%207_QuickDBD-export.png](Challenge%207_QuickDBD-export.png)
+[Challenge 7_QuickDBD-export.png](Challenge%207_QuickDBD-export.png)
 
 The goals of this challenge are to:
 
@@ -35,4 +35,4 @@ It's noteworthy to mention that partitioning based on first_name and last_name r
 3. Who’s Ready for a Mentor?
 [mentor_info_ch7.csv](mentor_info_ch7.csv) represents the employees eligible for being a mentor (born in 1965), a total of 1,549 employees.
 
-Please the sql statement here: [Challenge%207.sql](Challenge%207.sql)
+Please the sql statement here: [Challenge 7.sql](Challenge%207.sql)
