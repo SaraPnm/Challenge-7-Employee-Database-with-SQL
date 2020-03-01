@@ -14,11 +14,11 @@ The goals of this challenge are to:
 ## Resources
 - Data Source: https://openweathermap.org/api
 - Software/Apps: https://app.quickdatabasediagrams.com/
-                 pgAdmin - PostgresSQL
+                 , pgAdmin - PostgresSQL
 
 # Summary
 1. Generate the Number of [titles] Retiring Employees
-csv1 represents the outcome of joining Employees, Salaries, and Titles tables form the input data where the retirement constraints are applied:
+[retirement_info.csv](retirement_info.csv) represents the outcome of joining Employees, Salaries, and Titles tables form the input data where the retirement constraints are applied:
         -born between 1952 tp 1955
         -hired between 1985 to 1988
         -be a current employee
